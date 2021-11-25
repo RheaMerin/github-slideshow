@@ -12,5 +12,5 @@ I'll meet you over there, can't wait to get started!
 
 This course is using the :sparkles: open source project [reveal.js](https://github.com/hakimel/reveal.js/). In some cases we’ve made changes to the history so it would behave during class, so head to the original project repo to learn more about the cool people behind this project.
 
-[![Rhea's GitHub stats](https://github-readme-stats.vercel.app/api?username=RheaMerin)](https://github.com/RheaMerin/github-readme-stats)
+[![Rhea's GitHub stats](https://github-readme-stats.vercel.app/api=RheaMerin)](https://github.com/RheaMerin/github-readme-stats)
 
